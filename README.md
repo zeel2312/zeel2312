@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Zeel Thakkar</h1>
-<h3 align="center">A passionate Full Stack Developer from USA, Who's currently perusing a Master's Degree in Computer Science at Indiana University Bloomington.</h3>
+<h3 align="center">A passionate Full-Stack Developer, Who's currently perusing a Master's Degree in Computer Science at Indiana University Bloomington.</h3>
 
 - 🔭 I’m currently working as a Teaching Assistant @IU
 
