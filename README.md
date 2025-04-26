@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **LLM, Evals, Python, RestAPI, CI/CD, React, SQL, JavaScript, PHP, Laravel**
 
-- 📫 How to reach me **zeethakk@iu.edu**
+- 📫 How to reach me **zeelthakkar25@gmail.com**
 
 - 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1qKjHHRWuUZPbE4_FDJoNG_ItURTQCNup/view?usp=sharing)
 
