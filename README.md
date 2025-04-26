@@ -2,17 +2,17 @@
 <h1 align="center">Hi 👋, I'm Zeel Thakkar</h1>
 <h3 align="center">A passionate Full Stack Developer from USA, Who's currently perusing a Master's Degree in Computer Science at Indiana University Bloomington.</h3>
 
-- 🔭 I’m currently working as Software Engineer Intern at @Halluminate
+- 🔭 I’m currently working as a Teaching Assistant @IU
 
-- 🌱 I’m currently learning **React Native, Azure Web App, Django Rest Framework, Docker**
+- 🌱 I’m currently learning **React Native, Node.js, AWS, Django Rest Framework, Docker**
 
 - 👨‍💻 All of my projects are available at [PORTFOLIO-WEB](https://zeel-thakkar.netlify.app/)
 
-- 💬 Ask me about **Python, RestAPI, CI/CD, React Native, SQL, JavaScript, PHP, Laravel**
+- 💬 Ask me about **LLM, Evals, Python, RestAPI, CI/CD, React, SQL, JavaScript, PHP, Laravel**
 
 - 📫 How to reach me **zeethakk@iu.edu**
 
-- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1b-_jmrhGxe6Ei2ie_vMTa2x2rEtec6LL/view)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1qKjHHRWuUZPbE4_FDJoNG_ItURTQCNup/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
